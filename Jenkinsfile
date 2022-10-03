@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "imranvisualpath/vproappdock"
+        registry = "amanbond/vprofileapp:v1"
         registryCredential = 'dockerhub'
     }
 
