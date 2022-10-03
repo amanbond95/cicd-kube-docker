@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "amanbond/vprofileapp:v1"
+        registry = "amanbond/vprofileapp"
         registryCredential = 'dockerhub'
     }
 
